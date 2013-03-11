@@ -8,4 +8,5 @@ Outagetrkr is an outage tracker fully packed with features
 - Searchable incidents
 - Taggable incidents
 - Tools for documenting incidents (prevention/external documentation/service owners/affected users)
-- It'll kick your current incident tracking tool in the butt!
+- It's so good, it's what your outage tracker uses for outage tracking ;)
+
